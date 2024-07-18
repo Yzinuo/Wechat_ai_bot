@@ -1,0 +1,7 @@
+app:
+  env: "dev"
+
+keys:
+  bot_name: "杨小诺"
+  deepseek: "xxxxxxxx"
+  apiUrl: "xxxxxxxx"
