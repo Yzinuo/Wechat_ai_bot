@@ -3,5 +3,5 @@ app:
 
 keys:
   bot_name: "杨小诺"
-  deepseek: "xxxxxxxx"
-  apiUrl: "xxxxxxxx"
+  deepseek: "sk-35abe727a1e34f11acd47636e59ca1a7"
+  apiUrl: "https://api.deepseek.com/v1/chat/completions"
